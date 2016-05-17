@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("mWF")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Kaspersky Lab")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("mWF")]
-[assembly: AssemblyCopyright("Copyright © Kaspersky Lab 2015")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
